@@ -6,8 +6,6 @@
 
 - 🌱 Atualmente estou aprendendo **JavaScript, Python e React.js**
 
-- 📫 Como chegar até mim: **[Gmail](senhorpatopato@gmail.com)**
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://dev.to/alarik0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alarik0001" height="30" width="40" /></a>
