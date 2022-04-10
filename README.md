@@ -3,7 +3,7 @@
 
 - 🔭 No momento estou trabalhando no [SlayterBot](https://github.com/Alarik0001/SlayterBot)
 
-- 🌱 Atualmente estou aprendendo **JavaScript**
+- 🌱 Atualmente estou aprendendo **[JavaScript](https://www.javascript.com), [React.js](https://reactjs.org) e [Python](https://www.python.org)**
 
 - 📫 Como chegar até mim: **[Gmail](senhorpatopato@gmail.com)**
 
