@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, meu nome é **Alarik.**</h1>
+<h1 align="center">Olá, meu nome é Alarik.</h1>
 <h3 align="center">Um desenvolvedor brasileiro focado em fazer bots para o Discord.</h3>
 
 - 🔭 No momento estou trabalhando no [ SlayterBot](https://github.com/Alarik0001/SlayterBot)
