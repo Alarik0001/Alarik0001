@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **JavaScript**
 
-- 📫 Como chegar até mim: **senhorpatopato@gmail.com**
+- 📫 Como chegar até mim: **[Gmail](senhorpatopato@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
