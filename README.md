@@ -25,3 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alarik0001&show_icons=true&locale=en&layout=compact" alt="alarik0001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alarik0001&show_icons=true&locale=en" alt="alarik0001" /></p>
+
+![Snake animation](https://github.com/Alarik0001/Alarik001/blob/output/github-contribution-grid-snake.svg)
+</div>
