@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alarik0001&show_icons=true&locale=en" alt="alarik0001" /></p>
 
-![Snake animation](https://github.com/Alarik0001/Alarik001/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 </div>
