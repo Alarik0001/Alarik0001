@@ -2,10 +2,6 @@
 <h1 align="center">Olá, meu nome é Alarik.</h1>
 <h3 align="center">Um desenvolvedor brasileiro focado em fazer bots para o Discord.</h3>
 
-- 🔭 No momento estou trabalhando no [Emperor](https://github.com/Alarik0001/emperor)
-
-- 🌱 Atualmente estou aprendendo **JavaScript, Python e React.js**
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/850500148621869056)](https://discord.com/users/850500148621869056)
 
 <h3 align="left">Conecte-se comigo:</h3>
