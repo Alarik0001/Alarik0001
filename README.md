@@ -2,7 +2,11 @@
 <h1 align="center">Olá, meu nome é Alarik.</h1>
 <h3 align="center">Um desenvolvedor brasileiro focado em fazer bots para o Discord.</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/850500148621869056)](https://discord.com/users/850500148621869056)
+<p align="center">
+    <br>
+  <a href="https://discord.com/users/850500148621869056" target="_blank">
+    <img width="45%" src="https://lanyard.cnrad.dev/api/850500148621869056?bg=151515&borderRadius=5px" alt="Discord Status"/>
+    </a>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
