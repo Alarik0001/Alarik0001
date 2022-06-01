@@ -1,6 +1,5 @@
 
 <h1 align="center">Olá, meu nome é Alarik.</h1>
-<h3 align="center">Um desenvolvedor brasileiro focado em fazer bots para o Discord.</h3>
 
 <p align="center">
     <br>
