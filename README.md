@@ -3,7 +3,7 @@
 
 <p align="center">
     <br>
-  ## [Discord Server]((https://discord.gg/cS74UWZ669)
+  ## [Discord Server](https://discord.gg/cS74UWZ669)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
