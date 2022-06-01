@@ -3,9 +3,7 @@
 
 <p align="center">
     <br>
-  <a href="https://discord.com/users/850500148621869056" target="_blank">
-    <img width="45%" src="https://lanyard.cnrad.dev/api/850500148621869056?bg=151515&borderRadius=5px" alt="Discord Status"/>
-    </a>
+  ## [Discord Server]((https://discord.gg/cS74UWZ669)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
