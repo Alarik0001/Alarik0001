@@ -36,7 +36,7 @@ Olá, sou Alarik, um simples **`Programador`**</a> que está trabalhando, atualm
 ---
 
 
-### Conecte-se comigo 🌍
+## Conecte-se comigo 
 
 [![Discord](https://img.shields.io/discord/1028031415037743156?label=KnightRPG&logo=Discord)](https://discord.gg/)
 [![Twitter](https://img.shields.io/twitter/follow/alarik0001?style=social)](https://twitter.com/)
