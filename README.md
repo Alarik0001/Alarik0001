@@ -52,7 +52,7 @@ Espero lhe ver mais vezes. <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 
 <br>
 
-**Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/Alarik0001/Alarik0001/LICENSE) para obter mais detalhes.**
+**Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/Alarik0001/Alarik0001/blob/main/LICENSE) para obter mais detalhes.**
 
 </br>
 
