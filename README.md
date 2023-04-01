@@ -65,6 +65,9 @@ Olá, sou Alarik, um simples **`Programador`**</a> que está trabalhando, atualm
 
 Espero lhe ver mais vezes. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> 
 
+
+---
+
 <br>
 
 **Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/Alarik0001/Alarik0001/blob/main/LICENSE) para obter mais detalhes.**
