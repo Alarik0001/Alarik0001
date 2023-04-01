@@ -2,7 +2,7 @@
 
 <br/>
 
-Olá, sou Alarik,👨‍💻 um simples **`Programador`**</a> que está trabalhando💼 com **`bots no Discord`**. 🤓 Tenho grande interesse em 🤝 colaborar com outras pessoas e capacitá-las a criar soluções digitais que resolvam problemas 🌍 do mundo real.
+Olá, sou Alarik, um simples **`Programador`**</a> que está trabalhando, atualmente, com **`bots`** no <a href="https://discord.com">Discord</a> e com **`websites`**. Tenho grande interesse na área de programação e estou aprendendo algumas coisas.
 
  
 <a href="https://github.com/Alarik0001"><img src="https://media.discordapp.net/attachments/999013659084857374/1091510081339805787/alarik.png" align="right" width="350" alt="Alarik Card"/></a>
