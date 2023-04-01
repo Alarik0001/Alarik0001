@@ -40,12 +40,39 @@ Olá, sou Alarik,👨‍💻 um simples **`Programador`**</a> que está trabalha
 <br>
 <div align="center">  
       
-[![AlarikBanner](https://img.freepik.com/free-vector/medieval-legendary-knight-warrior-fighting-fierce-dragon-near-castle-save-princess-fair-tale-cartoon_1284-28620.jpg?size=700&ext=jpg&ga=GA1.1.1329516310.1649111741)
-      
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h4>Sobre Mim</h4>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet purus eu urna euismod, vel auctor augue blandit. Sed a sapien eget tellus dapibus convallis. Sed et enim eu odio facilisis molestie vel ac orci.
+        </p>
+      </div>
+      <div class="col-md-3">
+        <h4>Links</h4>
+        <ul class="list-unstyled">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Sobre</a></li>
+          <li><a href="#">Projetos</a></li>
+          <li><a href="#">Contato</a></li>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <h4>Contato</h4>
+        <ul class="list-unstyled">
+          <li><i class="fas fa-envelope"></i> email@exemplo.com</li>
+          <li><i class="fas fa-phone"></i> (00) 1234-5678</li>
+          <li><i class="fas fa-map-marker-alt"></i> Endereço, Cidade, Estado, País</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="text-center">
+    <p>&copy; 2023 Meu Nome. Todos os direitos reservados.</p>
+  </div>
+</footer>
+
 </br>
-
-**Veja mais dos meus repositórios.** 👇
-
-[![Alarik0001](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github)](https://github.com/Alarik0001?tab=repositories)
 
 </div>
