@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Alarik0001/Alarik0001/style.css">
+
 <h2> Olá! Meu nome é <a href="https://github.com/Alarik0001">Alarik</a>. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></h2>
 
 <br/>
