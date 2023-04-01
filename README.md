@@ -18,7 +18,7 @@ Olá, sou Alarik, um simples **`Programador`**</a> que está trabalhando, atualm
 
 <br>
 
----
+
 
 
 ## Preferência de tecnologia e ferramentas
@@ -33,7 +33,7 @@ Olá, sou Alarik, um simples **`Programador`**</a> que está trabalhando, atualm
 [![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github)]()
 [![VsCode](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 
----
+
 
 
 ## Conecte-se comigo 
@@ -48,7 +48,7 @@ Olá, sou Alarik, um simples **`Programador`**</a> que está trabalhando, atualm
 
 
 
----
+
 
 ## Muito obrigado por ler até aqui
 <br>
