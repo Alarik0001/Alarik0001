@@ -24,14 +24,14 @@ Olá, sou Alarik, um simples **`Programador`**</a> que está trabalhando, atualm
 ## Preferência de tecnologia e ferramentas
 
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=5df58b)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
-![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github)
-![VsCode](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)]()
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)]()
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=5df58b)]()
+[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)]()
+[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github)]()
+[![VsCode](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 
 ---
 
