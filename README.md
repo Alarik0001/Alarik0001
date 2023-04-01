@@ -2,7 +2,7 @@
 
 <br/>
 
-Olá, sou Alarik, um simples **`Programador`**</a> que está trabalhando, atualmente, com **`bots`** no <a href="https://discord.com">Discord</a> e com **`websites`**. Tenho grande interesse na área de programação e estou aprendendo algumas coisas.
+Olá, sou Alarik, um simples **`Programador`**</a> que está trabalhando, atualmente, com **`Bots`** no <a href="https://discord.com">Discord</a> e com **`Websites`**. Tenho grande interesse na área de programação e estou aprendendo algumas coisas.
 
  
 <a href="https://github.com/Alarik0001"><img src="https://media.discordapp.net/attachments/999013659084857374/1091510081339805787/alarik.png" align="right" width="350" alt="Alarik Card"/></a>
@@ -32,6 +32,21 @@ Olá, sou Alarik, um simples **`Programador`**</a> que está trabalhando, atualm
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)]()
 [![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github)]()
 [![VsCode](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+
+---
+
+
+### Conecte-se comigo 🌍
+
+[![Discord](https://img.shields.io/discord/1028031415037743156?label=KnightRPG&logo=Discord)](https://discord.gg/)
+[![Twitter](https://img.shields.io/twitter/follow/alarik0001?style=social)](https://twitter.com/)
+[![Portfolio](https://img.shields.io/badge/-View%20Projects-2962ff?style=flat&logo=polywork&link=)]()
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/)]()
+[![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)]()
+[![GitHub](https://img.shields.io/github/followers/saugat-rimal?label=follow&style=social)](https://github.com/Alarik0001)
+[![Portfolio](http://img.shields.io/badge/-Portfolio%20Website-ffffff?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEYSURBVDiNxdHNK4RRFMfxzzMzhVJeirKwIZKVyG4WY22nrCwoG%2FkHbGYzO%2FkfLKysZSHFgmxtKCJkNTLEyEtZTGPx3KnpaWSS8q3bOffcc37ndC7%2FTYRldKKCdMJ%2Bxwbm8QJ57GMOV5jFaRD5iXyEHZzjCb24D7bYhEAugwOsNpHciCiNa7wlHiYTE%2FSggHEM4CTEsynxMmAME8GfRg6D4f6Kh%2BDf1HdKBTsaio4xhAscYhH96K4Ty2IF64hqAo%2FoQitmsIV2tKCMEs7QFk4ae6jWBEpYwzAy%2BAh%2BIYzfh6nQoBUj2BSUsjjCe5jkUrzUIj7rdvAs%2Fuo7bIu%2F%2BzYTOtaohIQkVew2iC9EWEJHg8dmKP%2By7g%2F5Ahl%2FO9wcY8OAAAAAAElFTkSuQmCC&logoColor=white)]()
+
+
 
 ---
 
