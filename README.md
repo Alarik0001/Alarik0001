@@ -3,9 +3,6 @@
 <br/>
 
 Olá, sou Alarik, um simples **`Programador`**</a> que está trabalhando, atualmente, com **`Bots`** no <a href="https://discord.com">Discord</a> e com **`Websites`**. Tenho grande interesse na área de programação e estou aprendendo algumas coisas.
-
- 
-<a href="https://github.com/Alarik0001"><img src="https://media.discordapp.net/attachments/999013659084857374/1091510081339805787/alarik.png" align="right" width="350" alt="Alarik Card"/></a>
  
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...
 
@@ -40,7 +37,7 @@ Olá, sou Alarik, um simples **`Programador`**</a> que está trabalhando, atualm
 <div align="center">  
 
 
-  [![KnightBanner](https://img.freepik.com/free-vector/official-knighting-ceremony-medieval-castle-throne-room-king-putting-sword-male-shoulders-priest-controlling-action-honoring-warrior_575670-1649.jpg)]
+  [![KnightBanner][https://github.com/Alarik0001/Alarik0001/blob/main/banner%20knight.png)]
  </br>
 
 ### **Veja mais repositórios meus.** 👇
