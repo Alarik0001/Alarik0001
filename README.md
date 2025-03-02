@@ -37,7 +37,7 @@ Olá, sou Alarik, um simples **`Programador`**</a> que está trabalhando, atualm
 <div align="center">  
 
 
-![Banner](https://github.com/Alarik0001/Alarik0001/blob/main/banner%20knight.png)
+<img src="https://github.com/Alarik0001/Alarik0001/blob/main/banner%20knight.png" width="100%">
  </br>
 
 ### **Veja mais repositórios meus.** 👇
